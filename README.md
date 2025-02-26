@@ -6,13 +6,13 @@ This repository contains my projects for the **Artificial Intelligence** course 
 
 ## Projects
 
-### [Project 1: Search Algorithms](/project1-search-algorithms)
+### [Project 1: Search Algorithms](/homework1)
 Implementation of **uninformed search algorithms**, including:
 - Breadth-First Search (BFS)
 - Depth-First Search (DFS)
 - Uniform-Cost Search (UCS)
 
-### [Project 2: Informed Search Algorithms](/project2-informed-search-algorithms)
+### [Project 2: Informed Search Algorithms](/homework2)
 Implementation of **heuristic-driven search algorithms**, including:
 - Greedy Best-First Search
 - A* (A-Star) Search
